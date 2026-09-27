@@ -1,0 +1,12 @@
+﻿
+
+비디오가 틀어진다고 하자.
+하나의 Scene을 이룰 때 필요한 것
+고려 사항
+
+Script가 나올 시간대
+Script 지속시간
+Branch 구간이 나올 시간
+
+Branch Type -> QTE, KeyBoard, Select
+

@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85a09d40128b55044bb98eb929c6a90b, type: 3}
+  m_Name: V002
+  m_EditorClassIdentifier: Assembly-CSharp::VideoSetting
+  videoUID: V002
+  clipKey: hide_stair
+  loopStartTime: 107
+  scriptList:
+  - startTime: 1
+    duration: 1
+    scriptText: "\uD558"
+  - startTime: 2
+    duration: 1
+    scriptText: "\uD5E4"
+  - startTime: 5
+    duration: 1
+    scriptText: "\uD558"
+  - startTime: 6
+    duration: 1
+    scriptText: "\uD750\uC74D \uD558"
+  - startTime: 23
+    duration: 1
+    scriptText: "\uD569.."
+  - startTime: 35
+    duration: 1
+    scriptText: "\uD569...."
+  - startTime: 36
+    duration: 1
+    scriptText: "\uD5D9"
+  - startTime: 42
+    duration: 1
+    scriptText: "\uD558..."
+  - startTime: 46
+    duration: 1
+    scriptText: "\uD558...."
+  - startTime: 48
+    duration: 1
+    scriptText: "\uD750\uC74D \uD558.."
+  - startTime: 52
+    duration: 1
+    scriptText: "\uD558\uC544...."
+  - startTime: 54
+    duration: 1
+    scriptText: "\uD558\uC544........"
+  - startTime: 57
+    duration: 1
+    scriptText: "\uD558\uC544..."
+  - startTime: 58
+    duration: 1
+    scriptText: "\uD558\uC544....."
+  - startTime: 61
+    duration: 1
+    scriptText: "\uC544\uC545!!!!!!!"
+  - startTime: 63
+    duration: 1
+    scriptText: "\uD558\uC544......"
+  - startTime: 64
+    duration: 1
+    scriptText: "\uD558\uC544...."
+  - startTime: 65
+    duration: 1
+    scriptText: "\uD558\uC544......"
+  - startTime: 66
+    duration: 1
+    scriptText: "\uD558...."
+  - startTime: 68
+    duration: 1
+    scriptText: "\uD558....."
+  - startTime: 69
+    duration: 1
+    scriptText: "\uD558..."
+  - startTime: 70
+    duration: 1
+    scriptText: "\uD558.."
+  - startTime: 71
+    duration: 1
+    scriptText: "\uD558\uC544...."
+  - startTime: 73
+    duration: 1
+    scriptText: "\uD558\uC544...."
+  - startTime: 74
+    duration: 1
+    scriptText: "\uD558....."
+  - startTime: 77
+    duration: 1
+    scriptText: "\uD558..."
+  - startTime: 78
+    duration: 1
+    scriptText: "\uD558....."
+  - startTime: 79
+    duration: 1
+    scriptText: "\uD558........"
+  branchTimer: 94
+  branchType: 0
+  branchOptions:
+  - branchText: "\uC790\uB824\uACE0 \uD55C\uB2E4"
+    targetVideoUID: V008
+  - branchText: "\uBD88 \uD0A4\uACE0 \uC77C\uC5B4\uB09C\uB2E4"
+    targetVideoUID: V006
+  qteSetting:
+    passCondition: 0
+    steps: []
+    successTargetVideoUID: 
+    failTargetVideoUID: 
+  nextVideoUID: 
+  endingId: 
