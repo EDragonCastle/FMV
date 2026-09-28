@@ -4,7 +4,7 @@ using TMPro;
 public class StoryText : MonoBehaviour, IChannel
 {
     private TextMeshProUGUI textUI;
-
+    private bool isWriting = false;
     private void Awake()
     {
         textUI = this.GetComponent<TextMeshProUGUI>();
@@ -31,6 +31,7 @@ public class StoryText : MonoBehaviour, IChannel
                 if(storyText != null)
                 {
                     WritingText(storyText);
+                    isWriting = true;
                 }
                 else
                 {
@@ -42,10 +43,11 @@ public class StoryText : MonoBehaviour, IChannel
 
     private void WritingText(StoryTextSetting stroySetting)
     {
+        CancelInvoke(nameof(EmptyText));
         textUI.text = stroySetting.text;
 
         if(stroySetting.duration != 0)
-            Invoke("EmptyText", stroySetting.duration);
+            Invoke(nameof(EmptyText), stroySetting.duration);
     }
 
     private void EmptyText()

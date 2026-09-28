@@ -37,7 +37,7 @@ MonoBehaviour:
   - startTime: 22
     duration: 1
     scriptText: "\uD558\uC544.."
-  branchTimer: 57
+  branchTimer: 59
   branchType: 0
   branchOptions:
   - branchText: "\uB3C4\uB9DD\uAC04\uB2E4"

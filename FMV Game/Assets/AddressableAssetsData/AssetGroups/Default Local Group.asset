@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Default Local Group
+  m_GUID: d5179798d98e61245afa0d578d64d35c
+  m_SerializeEntries:
+  - m_GUID: 0744152d8ce4f9341a1a015549507717
+    m_Address: V010
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1750012a0723aad4389ae2cb034c49d1
+    m_Address: V003
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 464cfa743623e604f92041480a74c9cf
+    m_Address: V007
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54c99a6eb35331341b43f3f35acba225
+    m_Address: going_sleep
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ac7070adfd64de4cae33cf9798072f4
+    m_Address: V006
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6063a79aa0e7b3e458cff1a60dcf8999
+    m_Address: run_up_stair
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 642c2f265b0f58440ba72535e3680684
+    m_Address: V009
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 658c64905eed3474f892132fc464b5c8
+    m_Address: V004
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6674be37514b3054290dece3a114c53b
+    m_Address: hide_stair
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 737d6d3f672485e4796bd4f9eac7163c
+    m_Address: StoryButton
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a3c9c2963de7d845a9e3ebedc3568fd
+    m_Address: V002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81cd2a0be2e42eb4f9101e9e4026f4da
+    m_Address: attack_clown
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d3fe4c1ec9869543b28c66371cfd2cb
+    m_Address: main_video
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9740a7c92d79f28458887e4788ba6ac6
+    m_Address: V008
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9757a11c24bc47940bce553927219f68
+    m_Address: turn_on_light
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d72ee990b715584cbb485492adec8af
+    m_Address: hide_stair_again
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e09df3446efc37479db0009e51961fe
+    m_Address: runaway
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aee33055ee5d0f3498cf9a0f220a08b6
+    m_Address: V005
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d056f86eb8e19d34085fb679033baf8c
+    m_Address: close_door
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e76696a236f6f0b4f95902c9ffcab3d7
+    m_Address: V001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6dab51ddfa6bd74e890bb727a8fd430
+    m_Address: keep_running
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 000f0fdcd8881884abb1c5c9d1e317d5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 304314dc39e19f349b75274fbd327644, type: 2}
+    - {fileID: 11400000, guid: 4a1f7e6a3b5b1bf4889797dc851b1204, type: 2}
